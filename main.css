@@ -1,0 +1,38 @@
+.btn-gray {
+    color: #E7E9EC;
+    background-color: #E7E9EC;
+    border-color: #E7E9EC;
+    width: 100%;
+}
+ .btn-yellow {
+    color: #212529;
+    background-color: #F0C14B;
+    border-color: #F0C14B;
+    width: 100%;
+}
+ 
+		form {margin-top: 10px;
+ }
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.container { max-width: 400px; }
+
+.divider {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.divider hr {
+  margin: 13px 0px;
+  width: 33%;
+}
+
+.left { float: left; }
+
+.right { float: right; }
+	</style>
